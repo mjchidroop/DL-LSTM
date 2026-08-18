@@ -39,10 +39,6 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: S.Yogesh
-
-### Register Number: 21224230311
-
 ```python
 
 import pandas as pd
